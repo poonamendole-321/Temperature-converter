@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 500px;
+  margin:  50px auto;
+  background-color: #99d3e3;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 10px 5px rgba(43, 66, 115, 0.2);
+}
+
+h1 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 22px;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 400;
+}
+
+input[type="number"] {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.result {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
